@@ -18,7 +18,7 @@ const info = () => {
       </div>
       <div className='about_box'>
         <AiOutlineGlobal className='about_icon' />
-        <h3 className='about_title'>Hobby</h3>
+        <h3 className='about_title'>Contact Me</h3>
         <span className='about_subtitle'></span>
       </div>
     </div>

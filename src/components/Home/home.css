@@ -3,6 +3,10 @@
     justify-content: space-evenly;
 }
 
+.home_container {
+    margin-top: 6%;
+}
+
 .home_img {
     background: url(../../images/xiao.jpeg);
     background-repeat: no-repeat;
