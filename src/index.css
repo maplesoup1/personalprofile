@@ -103,7 +103,11 @@ img {
   font-size: var(--h1-font-size);
   margin-left: 0.875rem;
   position: relative;
-  margin-bottom: 3.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.section_subtitle {
+  margin-bottom: 3rem;
 }
 
 .btn {
