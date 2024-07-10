@@ -9,7 +9,7 @@ const Education = () => {
         setToggleState(index);
     };
     return (
-        <section className="services section" id="services">
+        <section className="services section" id="education">
             <h2 className="section_title">Education</h2>
             <span className="section_subtitle">University Study in Australia</span>
 
