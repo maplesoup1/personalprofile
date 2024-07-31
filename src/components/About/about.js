@@ -19,7 +19,10 @@ const About = () => {
                         I graduated from UNSW with an undergraduate degree in Mathematics and am now enrolled in a
                         Master's degree in Computer Science at USYD. I have hands-on experience applying Java, Python, C++,
                         R, SQL, HTML, and JavaScript in academic programs. One of my specialties and passions is front-end
-                        development, with HTML, CSS, and JavaScript being my favorite programming languages.
+                        web development. Proficient in React, including component development, state management and React Hooks; 
+                        Familiar with Next.js, capable of server-side rendering and static website generation; Expert in modular design, dependency injection and RESTful API development using NestJS.
+
+
                     </p>
                     <a download="" href={CV} className="button button--flex">DownLoad CV  <AiFillStar className="button_icon" /></a>
                     

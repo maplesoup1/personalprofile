@@ -42,7 +42,7 @@ const Contact = () => {
                             <AiFillHourglass />
                             <h3 className='contact_card-title'>Email</h3>
                             <span className='contact_card-data'>timmy000728@gmail.com</span>
-                            <a href='mailto:timmy000728@gmail.com' className='contact_button'>Write me<AiFillHourglass className='contact_button-icon' /></a>
+                            <a href='mailto:timmy000728@gmail.com' className='contact_button'>Find me<AiFillHourglass className='contact_button-icon' /></a>
                         </div>
 
                         <div className='contact_card'>
@@ -51,14 +51,14 @@ const Contact = () => {
                             <a href='https://linkedin.com/in/xiaofeng-tang-77b550227' className='contact_card-data' target='_blank' rel='noopener noreferrer'>
                                 linkedin.com/in/xiaofeng-tang-77b550227
                             </a>
-                            <a href='https://linkedin.com/in/xiaofeng-tang-77b550227' className='contact_button'>Write me<AiFillHourglass className='contact_button-icon' /></a>
+                            <a href='https://linkedin.com/in/xiaofeng-tang-77b550227' className='contact_button'>Find me<AiFillHourglass className='contact_button-icon' /></a>
                         </div>
 
                         <div className='contact_card'>
                             <AiFillHourglass />
                             <h3 className='contact_card-title'>Github</h3>
                             <span className='contact_card-data'>https://github.com/maplesoup1</span>
-                            <a href='wechat://1196745157' className='contact_button'>Write me<AiFillHourglass className='contact_button-icon' /></a>
+                            <a href='wechat://1196745157' className='contact_button'>Find me<AiFillHourglass className='contact_button-icon' /></a>
                         </div>
                     </div>
                 </div>
